@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerest8n
+- 👋 Hi, I’m @Jerestin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning basic codinding
 - 💞️ I’m looking to collaborate on ...
