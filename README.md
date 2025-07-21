@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: wanting to learn animation and game development
+- ⚡ Fun fact: wanting to learn programming and coding 
 
 <!---
 Jerest8n/Jerest8n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
